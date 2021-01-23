@@ -1,3 +1,5 @@
+My semestr takeaways
+
 - I have learned how to use github
 - I practiced speaking English
 - I realized that sometimes content is more important than design
