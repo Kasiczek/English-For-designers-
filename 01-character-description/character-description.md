@@ -1,4 +1,4 @@
-<img src="01-character-description/číslo na github.jpg">
+<img src="01-character-description/číslo na github.jpg"width="400" height="600"/>
 
 My character description
 
