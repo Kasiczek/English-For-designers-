@@ -1,4 +1,4 @@
-![alt text](https://github.com/Kasiczek/english-for-designers/blob/main/01-character-description/number3.png)
+<img src="number3.png" alt="number3.png" width="500"/>
 
 My character description
 
