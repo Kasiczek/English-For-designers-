@@ -1,4 +1,4 @@
-![alt text](01-character-description/číslo na github.jpg)
+[alt text](01-character-description/číslo na github.jpg)
 
 My character description
 
