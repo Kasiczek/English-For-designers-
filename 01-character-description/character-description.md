@@ -1,4 +1,4 @@
-<img src="https://github.com/Kasiczek/About-me-/blob/main/01-character-description/c%CC%8Ci%CC%81slo%20na%20github.jpg" width="400" height="600"/>
+<img src="01-character-description/číslo na github.jpg" width="400" height="600"/>
 
 My character description
 
