@@ -1,4 +1,4 @@
-My semestr takeaways
+My semester takeaways
 
 - I have learned how to use github
 - I practiced speaking English
