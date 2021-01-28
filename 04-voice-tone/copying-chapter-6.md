@@ -17,4 +17,5 @@ https://www.behance.net/gallery/88369927/logofolio-vol-1
 From dribble I'm not keeping track of things that inspired me but i was searching for some inspiration for cow illustration and there are some pretty good ones.
 https://dribbble.com/search/cow
 
+<img src="cow.png" alt="cow.png" width="500"/>
 
