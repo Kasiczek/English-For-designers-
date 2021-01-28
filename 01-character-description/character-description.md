@@ -1,4 +1,4 @@
-[alt text](01-character-description/číslo na github.jpg)
+![alt text](https://github.com/Kasiczek/english-for-designers/blob/main/01-character-description/c%CC%8Ci%CC%81slo%20na%20github.jpg)
 
 My character description
 
