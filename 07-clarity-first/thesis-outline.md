@@ -13,8 +13,9 @@ This work contains treatise on corporate identity and creating design for compan
 2. Making logo design to graphic element and elaboration of it to whole design
 3. Developing webside and content in it, working with elements from logo and puting it toggether 
 4. Working on print design (broshure, bussiness card)
-5. 
+5. Analyze each part contained in CI and making some 
 6. 
+7. 
 
 ### Notes
 - Corporate Identity
