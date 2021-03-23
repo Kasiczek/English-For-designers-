@@ -1,6 +1,6 @@
 # Corporate Identity Design of SCIT
 
-This
+This work contains treatise on corporate identity and creating design for company.
 
 <
 
