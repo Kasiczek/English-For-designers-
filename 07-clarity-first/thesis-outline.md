@@ -20,7 +20,6 @@ This work contains treatise on corporate identity and creating design for compan
 - Corporate Communications
 - Corporate Design
 - Visual style
-- 
 
 ## Keywords
 - Colors
