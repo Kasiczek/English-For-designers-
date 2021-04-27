@@ -49,5 +49,8 @@ When creating websites I came across a problem: the company basically does not h
   <img src="https://user-images.githubusercontent.com/72804674/116233143-3e0f8880-a75b-11eb-91e2-94e12e06a718.png">
 </p>
 
+![image](https://user-images.githubusercontent.com/72804674/116236334-3b169700-a75f-11eb-97b1-cae72d577467.png)
+![image](https://user-images.githubusercontent.com/72804674/116236364-44076880-a75f-11eb-93d6-3b33e117fe8c.png)
+
 
 
