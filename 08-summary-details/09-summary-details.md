@@ -26,9 +26,10 @@ The connection as such is shown mainly typographically in the logotype.
 
 
 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/72804674/116232586-a0b45480-a75a-11eb-94a0-f94ec8e9244e.png">
+</p>
 
-
-![image](https://user-images.githubusercontent.com/72804674/116232586-a0b45480-a75a-11eb-94a0-f94ec8e9244e.png)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72804674/116232516-85494980-a75a-11eb-8662-91eff4c2d285.png">
