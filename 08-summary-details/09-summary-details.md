@@ -27,7 +27,7 @@ The connection as such is shown mainly typographically in the logotype.
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/72804674/116232586-a0b45480-a75a-11eb-94a0-f94ec8e9244e.png">
+  <img width="460" height="250" src="https://user-images.githubusercontent.com/72804674/116232586-a0b45480-a75a-11eb-94a0-f94ec8e9244e.png">
 </p>
 
 
