@@ -33,6 +33,8 @@ The connection as such is shown mainly typographically in the logotype.
 
 <p align="center">
   <img width= src="https://user-images.githubusercontent.com/72804674/116235970-c0e61280-a75e-11eb-94a4-b3c814a45533.png">
+  
+
 </p>
 
 
@@ -51,6 +53,13 @@ When creating websites I came across a problem: the company basically does not h
 
 ![image](https://user-images.githubusercontent.com/72804674/116236334-3b169700-a75f-11eb-97b1-cae72d577467.png)
 ![image](https://user-images.githubusercontent.com/72804674/116236364-44076880-a75f-11eb-93d6-3b33e117fe8c.png)
+
+
+For the company SCIT, I created a series of corporate publications.
+
+One of the created printed materials was a business card of a classic format. On the one hand, the illustrations of artificial intelligence, which have been used several times, follow the SCIT logo together with the title "automatic systems with artificial intelligence". On the back, the contact details are enriched with a QR code modified in the style of graphic elements so that with them
+merges (this is the generation of a contact to add to the phone).
+scit_vizitka_rev07.pdf![image](https://user-images.githubusercontent.com/72804674/116240955-b7f83f80-a764-11eb-9978-a404d7afcdf8.png)
 
 
 
