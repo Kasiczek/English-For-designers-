@@ -30,12 +30,15 @@ The connection as such is shown mainly typographically in the logotype.
 
 ![image](https://user-images.githubusercontent.com/72804674/116232586-a0b45480-a75a-11eb-94a0-f94ec8e9244e.png)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72804674/116232516-85494980-a75a-11eb-8662-91eff4c2d285.png">
+</p>
 
-![image](https://user-images.githubusercontent.com/72804674/116232516-85494980-a75a-11eb-8662-91eff4c2d285.png)
 
 
 
 When creating websites I came across a problem: the company basically does not have the means to visually present the service that it provides. So I approached the design of their services through animations and illustrations.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72804674/116233143-3e0f8880-a75b-11eb-91e2-94e12e06a718.png">
 </p>
