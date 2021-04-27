@@ -18,9 +18,6 @@ In its first part, this work deals with the definition of corporate visual ident
 ### Approach/Methodology
 Im using simple work analysis and trying to put it together to make sense.
 
-### Results
-
-
 
 
 ### Conclusion
