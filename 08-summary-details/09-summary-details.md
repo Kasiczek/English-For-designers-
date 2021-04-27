@@ -24,6 +24,7 @@ into a single logo. Since the company deals with the connection of water supply 
 I tried to connect these things in the logo as well.One factor was water, which was represented by color. 
 The connection as such is shown mainly typographically in the logotype.
 
+zdroj scit.jpg![image](https://user-images.githubusercontent.com/72804674/116236194-0efb1600-a75f-11eb-8338-b0da90af2ce0.png)
 
 
 <p align="center">
