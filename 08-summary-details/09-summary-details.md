@@ -25,8 +25,10 @@ I tried to connect these things in the logo as well.One factor was water, which 
 The connection as such is shown mainly typographically in the logotype.
 
 
-![image](https://user-images.githubusercontent.com/72804674/116236035-d9eec380-a75e-11eb-8a42-54d00742b2aa.png)
 
+<p align="center">
+  <img width= src="https://user-images.githubusercontent.com/72804674/116236035-d9eec380-a75e-11eb-8a42-54d00742b2aa.png">
+</p>
 
 <p align="center">
   <img width= src="https://user-images.githubusercontent.com/72804674/116235970-c0e61280-a75e-11eb-94a4-b3c814a45533.png">
