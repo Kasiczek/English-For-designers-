@@ -37,6 +37,7 @@ The connection as such is shown mainly typographically in the logotype.
 
 When creating websites I came across a problem: the company basically does not have the means to visually present the service that it provides. So I approached the design of their services through animations and illustrations.
 
-![image](https://user-images.githubusercontent.com/72804674/116233143-3e0f8880-a75b-11eb-91e2-94e12e06a718.png)
+
+<img align="left" width="100" height="100"![image](https://user-images.githubusercontent.com/72804674/116233143-3e0f8880-a75b-11eb-91e2-94e12e06a718.png)>
 
 
