@@ -69,6 +69,12 @@ The largest print is product brochure in A4 landscape, the content was therefore
 A simple stylized box was created as a signature to the email. This is a picture instead of a footer, again it is stylized with graphic elements.
 ![image](https://user-images.githubusercontent.com/72804674/116241917-b0856600-a765-11eb-9252-798e52a5a901.png)
 
+### Bussiness offer
+For the implementation of projects, a document "Offer" was created with space for project documentation, again styled to other documents. The document is created for editing in Word, but the elements contained in it are created externally in a graphics program
+![image](https://user-images.githubusercontent.com/72804674/116242147-ecb8c680-a765-11eb-92ff-1128d7872ff1.png)
 
+### Logo manual
+
+Together with the logo, I created a company logo manual setting out the basic principles of working with the logo and the elements associated with it. The stated principles in the manual are the protection zone of the logo and its permitted color and other modifications. There is also a company font and some examples of logo applications.
 
 
