@@ -24,6 +24,10 @@ into a single logo. Since the company deals with the connection of water supply 
 I tried to connect these things in the logo as well.One factor was water, which was represented by color. 
 The connection as such is shown mainly typographically in the logotype.
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/72804674/116232586-a0b45480-a75a-11eb-94a0-f94ec8e9244e.png)
 
 
