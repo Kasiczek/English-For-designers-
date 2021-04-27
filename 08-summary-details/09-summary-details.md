@@ -59,7 +59,7 @@ For the company SCIT, I created a series of corporate publications.
 
 One of the created printed materials was a business card of a classic format. On the one hand, the illustrations of artificial intelligence, which have been used several times, follow the SCIT logo together with the title "automatic systems with artificial intelligence". On the back, the contact details are enriched with a QR code modified in the style of graphic elements so that with them
 merges (this is the generation of a contact to add to the phone).
-scit_vizitka_rev07.pdf![image](https://user-images.githubusercontent.com/72804674/116240955-b7f83f80-a764-11eb-9978-a404d7afcdf8.png)
+![image](https://user-images.githubusercontent.com/72804674/116240955-b7f83f80-a764-11eb-9978-a404d7afcdf8.png)
 
 
 
