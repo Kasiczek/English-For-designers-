@@ -23,4 +23,7 @@ I worked with several factors when creating the SCIT logo. The first was to conn
 into a single logo. Since the company deals with the connection of water supply systems with information technologies, 
 I tried to connect these things in the logo as well.
 One factor was water, which was represented by color. The connection as such is shown mainly typographically in the logotype.
+![image](https://user-images.githubusercontent.com/72804674/116232586-a0b45480-a75a-11eb-94a0-f94ec8e9244e.png)
+
+
 ![image](https://user-images.githubusercontent.com/72804674/116232516-85494980-a75a-11eb-8662-91eff4c2d285.png)
