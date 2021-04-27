@@ -57,6 +57,7 @@ When creating websites I came across a problem: the company basically does not h
 
 For the company SCIT, I created a series of corporate publications.
 
+# Bussiness card
 One of the created printed materials was a business card of a classic format. On the one hand, the illustrations of artificial intelligence, which have been used several times, follow the SCIT logo together with the title "automatic systems with artificial intelligence". On the back, the contact details are enriched with a QR code modified in the style of graphic elements so that with them
 merges (this is the generation of a contact to add to the phone).
 ![image](https://user-images.githubusercontent.com/72804674/116240955-b7f83f80-a764-11eb-9978-a404d7afcdf8.png)
