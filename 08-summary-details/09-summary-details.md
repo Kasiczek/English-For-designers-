@@ -65,6 +65,10 @@ merges (this is the generation of a contact to add to the phone).
 The largest print is product brochure in A4 landscape, the content was therefore adjusted for example arcade "How it works". On the introductory page, the edited scene is transferred from the web animation. Information about artificial intelligence and statistics is supplemented by a stylized electronic brain illustrating the process of data processing. The last page contains contact information.
 ![image](https://user-images.githubusercontent.com/72804674/116241544-4bca0b80-a765-11eb-8c6c-80dde17ec39c.png)
 
+### Email signature
+A simple stylized box was created as a signature to the email. This is a picture instead of a footer, again it is stylized with graphic elements.
+![image](https://user-images.githubusercontent.com/72804674/116241917-b0856600-a765-11eb-9252-798e52a5a901.png)
+
 
 
 
