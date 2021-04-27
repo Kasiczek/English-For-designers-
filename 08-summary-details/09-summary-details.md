@@ -63,7 +63,8 @@ merges (this is the generation of a contact to add to the phone).
 ![image](https://user-images.githubusercontent.com/72804674/116240955-b7f83f80-a764-11eb-9978-a404d7afcdf8.png)
 ### Broshure
 The largest print is product brochure in A4 landscape, the content was therefore adjusted for example arcade "How it works". On the introductory page, the edited scene is transferred from the web animation. Information about artificial intelligence and statistics is supplemented by a stylized electronic brain illustrating the process of data processing. The last page contains contact information.
-![image](https://user-images.githubusercontent.com/72804674/116241467-35bc4b00-a765-11eb-89d8-0a0f89845eb2.png)
+![image](https://user-images.githubusercontent.com/72804674/116241544-4bca0b80-a765-11eb-8c6c-80dde17ec39c.png)
+
 
 
 
