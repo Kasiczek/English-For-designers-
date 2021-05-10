@@ -10,7 +10,7 @@ the graphic manual and things to be mentioned, such as corporate colors and thei
 In the last chapters, the first part defines the product and graphic elements. The practical part aimed to create an unified visual 
 style for the company SCIT. It analyzes its individual parts, therefore: the creation of a logo, website, and corporate publication.
 
-# Keyword
+## Keyword
 Corporate identity, image, brand, graphic design, unified visual style, logo, corporate culture
 
 ## Article
