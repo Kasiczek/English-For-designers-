@@ -61,7 +61,7 @@ For the company SCIT, I created a series of corporate publications.
 One of the created printed materials was a business card of a classic format. On the one hand, the illustrations of artificial intelligence, which have been used several times, follow the SCIT logo together with the title "automatic systems with artificial intelligence". On the back, the contact details are enriched with a QR code modified in the style of graphic elements so that with them
 merges (this is the generation of a contact to add to the phone).
 ![image](https://user-images.githubusercontent.com/72804674/116240955-b7f83f80-a764-11eb-9978-a404d7afcdf8.png)
-### Broshure
+### Brochure
 The largest print is product brochure in A4 landscape, the content was therefore adjusted for example arcade "How it works". On the introductory page, the edited scene is transferred from the web animation. Information about artificial intelligence and statistics is supplemented by a stylized electronic brain illustrating the process of data processing. The last page contains contact information.
 ![image](https://user-images.githubusercontent.com/72804674/116241544-4bca0b80-a765-11eb-8c6c-80dde17ec39c.png)
 
@@ -69,7 +69,7 @@ The largest print is product brochure in A4 landscape, the content was therefore
 A simple stylized box was created as a signature to the email. This is a picture instead of a footer, again it is stylized with graphic elements.
 ![image](https://user-images.githubusercontent.com/72804674/116241917-b0856600-a765-11eb-9252-798e52a5a901.png)
 
-### Bussiness offer
+### Business offer
 For the implementation of projects, a document "Offer" was created with space for project documentation, again styled to other documents. The document is created for editing in Word, but the elements contained in it are created externally in a graphics program
 ![image](https://user-images.githubusercontent.com/72804674/116242147-ecb8c680-a765-11eb-92ff-1128d7872ff1.png)
 
