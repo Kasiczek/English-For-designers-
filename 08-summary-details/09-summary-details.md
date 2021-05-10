@@ -77,4 +77,5 @@ For the implementation of projects, a document "Offer" was created with space fo
 
 Together with the logo, I created a company logo manual setting out the basic principles of working with the logo and the elements associated with it. The stated principles in the manual are the protection zone of the logo and its permitted color and other modifications. There is also a company font and some examples of logo applications.
 
+[logomanual.pdf](https://github.com/Kasiczek/english-for-designers/files/6452682/logomanual.pdf)
 
