@@ -6,7 +6,7 @@
 
 ## Work
 
-- [Charecter description](01-character-description/character-description.md)
+- [Charecter description](02-intentional-aboutness/About me.md)
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Voice tone](04-voice-tone/copying-chapter-6.md)
 - [Semester takeaways](06-semester-takeaways/semester-takeaways.md)
