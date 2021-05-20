@@ -1,7 +1,7 @@
 ### English for designers
 
 ## Miroslav Kasarda
-- [About me](About me.md)
+- [About me](02-intentional-aboutness/About me.md)
 - [CV](03-curriculum-vitae/cv.pdf)
 
 ## Work
