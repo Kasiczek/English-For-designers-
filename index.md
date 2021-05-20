@@ -12,3 +12,4 @@
 - [Semester takeaways](06-semester-takeaways/semester-takeaways.md)
 - [Final presentation](05-presentation-storytelling)
 - [Clarity first](07-clarity-first/thesis-outline.md)
+- [Clarity first](08-abstract_draft/thesis-abstract.md)
